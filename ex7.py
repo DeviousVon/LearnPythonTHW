@@ -1,3 +1,4 @@
+#  I'm not commenting on every line, that's crazy 
 print "Mary had a little lamb."
 print "Its fleece was white as %s." % 'snow'
 print "And everywhere that Mary went."
